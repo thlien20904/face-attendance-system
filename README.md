@@ -508,12 +508,6 @@ pip install tensorflow==2.10.0
 - ✅ Cooldown 10s chống spam check-in/out
 - ✅ Yêu cầu 2 lần nhận diện liên tiếp để xác nhận
 
-### Khuyến nghị:
-
-- 🔒 Đổi mật khẩu admin mặc định ngay
-- 🔒 Không chia sẻ file `admin.json` và `employees.json`
-- 🔒 Backup định kỳ thư mục `embeddings/`
-
 ---
 
 ## 🤝 Đóng Góp & Phát Triển
@@ -526,16 +520,6 @@ pip install tensorflow==2.10.0
 - [ ] Nhận diện nhiều khuôn mặt đồng thời
 - [ ] Anti-spoofing (chống ảnh/video giả mạo)
 - [ ] Tích hợp với thiết bị kiểm soát cửa (access control)
-
-### Hướng dẫn đóng góp:
-
-1. Fork repository
-2. Tạo branch mới: `git checkout -b feature/amazing-feature`
-3. Commit: `git commit -m 'Add amazing feature'`
-4. Push: `git push origin feature/amazing-feature`
-5. Tạo Pull Request
-
----
 
 ## 📄 Giấy Phép (License)
 

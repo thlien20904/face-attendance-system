@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
+# Sensitive data files
+admin.json
 # Distribution / packaging
 .Python
 build/
