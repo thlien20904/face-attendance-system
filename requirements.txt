@@ -1,0 +1,13 @@
+mtcnn
+keras-facenet
+opencv-python
+pillow
+pandas
+openpyxl
+numpy
+tensorflow
+matplotlib
+customtkinter
+h5py
+lz4
+keras
