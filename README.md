@@ -549,75 +549,9 @@ Dự án này được phát triển cho mục đích học tập và nghiên c�
 
 ---
 
-## 👨‍💻 Thông Tin Liên Hệ
-
-### Tác giả
-
-- **Họ tên**: [Tên của bạn]
-- **Email**: [email@example.com]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-### Hỗ trợ
-
-- 📧 Email: [email@example.com]
-- 💬 Discord: [Your Discord]
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/your-repo/issues)
-
----
-
-## 🙏 Lời Cảm Ơn
-
-Dự án này sử dụng các công nghệ mã nguồn mở tuyệt vời:
-
-- **FaceNet** - Florian Schroff et al. (Google)
-- **MTCNN** - Kaipeng Zhang et al.
-- **TensorFlow/Keras** - Google Brain Team
-- **CustomTkinter** - Tom Schimansky
-
----
-
 ## 📚 Tài Liệu Tham Khảo
 
 1. **FaceNet Paper**: [Schroff et al., 2015 - FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)
 2. **MTCNN Paper**: [Zhang et al., 2016 - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)
 3. **OpenCV Documentation**: [https://docs.opencv.org/](https://docs.opencv.org/)
 4. **CustomTkinter Docs**: [https://customtkinter.tomschimansky.com/](https://customtkinter.tomschimansky.com/)
-
----
-
-## 📝 Changelog
-
-### Version 1.0.0 (2024-12-04)
-
-- ✅ Triển khai đầy đủ chức năng check-in/check-out
-- ✅ Admin dashboard với thống kê, biểu đồ
-- ✅ Hệ thống tính lương tự động
-- ✅ Quản lý nhân viên (CRUD)
-- ✅ Backup & restore
-- ✅ Xuất báo cáo Excel
-- ✅ Giao diện CustomTkinter đẹp mắt
-
----
-
-## 🎓 Sử Dụng Cho Học Tập
-
-Dự án này phù hợp để:
-
-- 🎯 Học về Computer Vision và Face Recognition
-- 🎯 Hiểu về Deep Learning embeddings
-- 🎯 Thực hành Python GUI với Tkinter/CustomTkinter
-- 🎯 Xây dựng ứng dụng ML end-to-end
-- 🎯 Quản lý dữ liệu với JSON và Pandas
-
-**Demo**: Có thể chạy ngay mà không cần GPU (sử dụng CPU).
-
----
-
-<div align="center">
-
-**⭐ Nếu dự án hữu ích, hãy cho một Star trên GitHub! ⭐**
-
-Made with ❤️ by [Your Name]
-
-</div>
